@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.electroluxv2.enigma
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
